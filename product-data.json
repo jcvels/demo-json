@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "PRUEBA",
+        "description": "Prosopis alba, llamado popularmente algarrobo blanco, tacu, es una especie arbórea de Sudamérica que habita el centro de Argentina, la ecorregión de Gran Chaco, parte de la Mesopotamia argentina y el Chaco Paraguayo. Salta en la provincia fitogeográfica chaqueña y El Espinal, Formosa, o de Corrientes, norte de San Luis, Córdoba y centro de Santa Fe. También se puede encontrar en el norte chileno. Prosopis alba es un árbol medio, de 9 a 12 metros en altura y 1 metro en diámetro, aunque raramente se encuentren árboles tan crecidos (por las talas). El tronco es corto y la copa es globulosa, hasta de 10 m de diámetro. Este árbol es apreciado por su sombra. Las ramas son delgadas y se extienden frecuentemente hasta el suelo. El ritidoma (corteza) es fino, pardo grisáceo, y de madera veteada, con propiedades tánicas.",
+        "categorieId": 0,
+        "unitPrice": 950,
+        "picDescriptive": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Prosopis_alba.jpg",
+        "picMap": "https://image.freepik.com/foto-gratis/mapa-provincia-salta-argentina_2227-274.jpg",
+        "active": true,
+        "createdAt": "2020-11-09T01:01:21.000Z",
+        "updatedAt": "2020-11-09T01:01:21.000Z"
+    }
+]
